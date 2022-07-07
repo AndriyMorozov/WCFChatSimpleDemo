@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{B19121D3-249F-4B41-A4BC-67E17FF382B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{B9227B13-8DA0-4D99-87F5-EA23684AA491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLibrary", "ChatLibrary\ChatLibrary.csproj", "{1C82FCC1-D165-4CDC-99D8-3B38804C085F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B19121D3-249F-4B41-A4BC-67E17FF382B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19121D3-249F-4B41-A4BC-67E17FF382B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19121D3-249F-4B41-A4BC-67E17FF382B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19121D3-249F-4B41-A4BC-67E17FF382B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9227B13-8DA0-4D99-87F5-EA23684AA491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9227B13-8DA0-4D99-87F5-EA23684AA491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9227B13-8DA0-4D99-87F5-EA23684AA491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9227B13-8DA0-4D99-87F5-EA23684AA491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C82FCC1-D165-4CDC-99D8-3B38804C085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C82FCC1-D165-4CDC-99D8-3B38804C085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C82FCC1-D165-4CDC-99D8-3B38804C085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C82FCC1-D165-4CDC-99D8-3B38804C085F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {915F93E1-1C99-4E0B-8A07-D2F428458ED2}
+	EndGlobalSection
+EndGlobal

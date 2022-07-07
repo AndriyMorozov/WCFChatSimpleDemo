@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b19121d3-249f-4b41-a4bc-67e17ff382b3": {
+      "ProjectGuid": "b19121d3-249f-4b41-a4bc-67e17ff382b3",
+      "DisplayName": "Client",
+      "ColorIndex": 0
+    },
+    "b9227b13-8da0-4d99-87f5-ea23684aa491": {
+      "ProjectGuid": "b9227b13-8da0-4d99-87f5-ea23684aa491",
+      "DisplayName": "Server",
+      "ColorIndex": 1
+    },
+    "1c82fcc1-d165-4cdc-99d8-3b38804c085f": {
+      "ProjectGuid": "1c82fcc1-d165-4cdc-99d8-3b38804c085f",
+      "DisplayName": "ChatLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
